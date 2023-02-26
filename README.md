@@ -1,5 +1,3 @@
-# apitest-postman-tutorials
-a tutorials for use postman and do apitest
 
 <h1 align=center>Postman API Test Tutorials ｜ Postman接口自动化测试教程</h1>
 
