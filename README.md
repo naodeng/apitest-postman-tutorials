@@ -5,7 +5,7 @@
 
 ## Directory
 ### 1. 简介
-   - 接口测试简介
+   - [接口测试简介](Docs/Introduction of API Test.md)
    - Postman与newman概述
 ### 2. 安装与配置
    - 下载与安装Postman
